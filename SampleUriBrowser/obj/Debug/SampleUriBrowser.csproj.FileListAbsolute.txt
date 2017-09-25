@@ -1,0 +1,17 @@
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\SampleUriBrowser.dll
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\SampleUriBrowser.pdb
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Core.dll
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Platform.dll
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Core.pdb
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Core.xml
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\obj\Debug\SampleUriBrowser.csprojResolveAssemblyReference.cache
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\obj\Debug\SampleUriBrowser.MainPage.xaml.g.cs
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\obj\Debug\SampleUriBrowser.App.xaml.g.cs
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\obj\Debug\SampleUriBrowser.dll
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\obj\Debug\SampleUriBrowser.pdb
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\obj\Debug\SampleUriBrowser.dll.mdb
+D:\visual studio projects\SampleUriBrowser\SampleUriBrowser\SampleUriBrowser\bin\Debug\SampleUriBrowser.dll.mdb
